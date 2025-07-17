@@ -81,6 +81,9 @@ Created DAX measures such as:
 ### Version 1
 ![Blinkit Dashboard – V1](https://github.com/Dhruva912005/blinkit-Power-Bi-dashboard-/blob/my-new-branch/Screenshot%202025-07-17%20010329.png)
 
+### Version 2
+![Blinkit Dashboard – V2](https://github.com/Dhruva912005/blinkit-Power-Bi-dashboard-/blob/my-new-branch/Screenshot%202025-07-16%20130251.png)
+
 
 <!--
 If you want to control display size, you can use HTML instead of Markdown:
