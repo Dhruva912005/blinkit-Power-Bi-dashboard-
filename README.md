@@ -1,6 +1,7 @@
 # blinkit-Power-Bi-dashboard
 
 Blinkit Sales Analysis – Power BI Project
+
 📌 Project Overview
 This project analyzes Blinkit’s sales data using Power BI to transform raw data into actionable insights. The goal was to:
 
@@ -98,7 +99,7 @@ Supermarket Type 1 dominated among outlet types
 Regular fat content products contributed more to sales than low-fat items
 
 ✅ Dashboard Preview
-(Insert screenshot of your dashboard here)
+
 
 ▶ How to Use This Project
 Download the dataset from the link provided above
@@ -122,10 +123,4 @@ This analysis provides valuable insights that help businesses:
 ✔ Improve outlet performance
 ✔ Design location-specific sales strategies
 
-👨‍💻 Author
-Dhruva Jain
-
-LinkedIn
-
-GitHub
 
