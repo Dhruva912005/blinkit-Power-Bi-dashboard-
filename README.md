@@ -79,10 +79,8 @@ Created DAX measures such as:
 > **Tip:** Place your images in `images/` and update the paths below.
 
 ### Version 1
-![Blinkit Dashboard – V1](images/dashboard-v1.png)
+![Blinkit Dashboard – V1](https://github.com/Dhruva912005/blinkit-Power-Bi-dashboard-/blob/my-new-branch/Screenshot%202025-07-16%20125540.png)
 
-### Version 2
-![Blinkit Dashboard – V2](images/dashboard-v2.png)
 
 <!--
 If you want to control display size, you can use HTML instead of Markdown:
