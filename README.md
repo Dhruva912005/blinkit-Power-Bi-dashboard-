@@ -1,6 +1,6 @@
 # blinkit-Power-Bi-dashboard
 
-Blinkit Sales Analysis – Power BI Project
+<h1>Blinkit Sales Analysis – Power BI Project</h1>
 
 📌 Project Overview
 This project analyzes Blinkit’s sales data using Power BI to transform raw data into actionable insights. The goal was to:
