@@ -6,20 +6,14 @@ Blinkit Sales Analysis – Power BI Project
 This project analyzes Blinkit’s sales data using Power BI to transform raw data into actionable insights. The goal was to:
 
 Clean and prepare raw data for analysis
-
 Create an interactive Power BI dashboard
-
 Identify trends and key factors influencing sales
-
 Help businesses optimize inventory, improve outlet strategy, and boost overall sales performance
 
 ✅ Objectives of the Project
 Understand the impact of Fat Content on sales
-
 Analyze Item Type performance
-
 Examine the influence of Outlet Size, Location, and Establishment Type
-
 Display Key KPIs for quick decision-making
 
 Build an interactive dashboard for visualization and filtering
@@ -33,10 +27,6 @@ DAX (Data Analysis Expressions) – For calculated measures
 
 Data Cleaning Techniques – Handling missing values, duplicates, and inconsistent data
 
-📂 Dataset
-Source: Blinkit Sales Data (Public Dataset for Practice)
-
-Download Link: Click Here to Access Dataset
 
 Features:
 
