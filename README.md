@@ -31,19 +31,12 @@ Data Cleaning Techniques – Handling missing values, duplicates, and inconsiste
 Features:
 
 Item Identifier
-
 Item Weight
-
 Fat Content
-
 Item Type
-
 Outlet Size
-
 Outlet Location Type
-
 Outlet Establishment Year
-
 Sales & Ratings
 
 ✅ Project Workflow
@@ -88,17 +81,6 @@ Supermarket Type 1 dominated among outlet types
 
 Regular fat content products contributed more to sales than low-fat items
 
-✅ Dashboard Preview
-
-
-▶ How to Use This Project
-Download the dataset from the link provided above
-
-Open Power BI Desktop
-
-Import the dataset and apply the same transformations (or use the Power Query editor)
-
-Recreate the visuals as shown in the dashboard or customize your own
 
 🚀 Future Scope & Improvements
 Integrate real-time data for live monitoring
